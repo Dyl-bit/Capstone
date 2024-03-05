@@ -35,5 +35,5 @@ This line of code represents the different degrees/spots the king can move on th
 4. Add them all together and run/edit the code however you like
 
 ## Contributors
-Contributors to this project were a RyiSnow and Screen Works
+Contributors to this project were a RyiSnow,Screen Works, and GeeksForGeeks.
    
